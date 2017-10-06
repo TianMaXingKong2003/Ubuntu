@@ -1,4 +1,4 @@
-For reference only   仅供参考哦   \(￣ˇ￣)/ 
+For reference only.     仅供参考哦       \\(￣ˇ￣)/ 
 
 1.http://www.linuxidc.com/Linux/2012-07/65455.htm
 
@@ -22,7 +22,7 @@ If you want to know which software you have:
       
 Then uninstall:
 
-      #apt-get --purge remove <the full name of application>  //Date is pricious,be careful when you delete it.
+      #apt-get --purge remove <the full name of application>  //Data is pricious,be careful when you delete it.
       
-Also you can use Ubuntu Software Center.
+Also you can use Ubuntu Software Center.=_=
 
